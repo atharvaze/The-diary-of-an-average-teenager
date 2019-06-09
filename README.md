@@ -9,6 +9,12 @@ The home page
 
 
 
+The Blog Page
+![puff](https://user-images.githubusercontent.com/46229364/59158415-6b0b1180-8ad7-11e9-9ad7-2b0587ebc077.PNG)
+
+
+
+
 A sample post
 
 ![post](https://user-images.githubusercontent.com/46229364/59158057-4bbdb580-8ad2-11e9-9b63-2029be9d4664.PNG)
